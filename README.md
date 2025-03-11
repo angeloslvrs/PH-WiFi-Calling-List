@@ -16,7 +16,8 @@
   - 124.6.181.102 *(as of 2025-03-11)*
  
 ## DITO  
-- **MNC:** 055
-- **ePDG FQDN:** `epdg.epc.mnc055.mcc515.pub.3gppnetwork.org`  (not verified)
+- **MNC:** 066
+- **ePDG FQDN:** `epdg.epc.mnc066.mcc515.pub.3gppnetwork.org
 - **Addresses:**  
-  - none found *(as of 2025-03-11)*  
+  - 131.226.72.137 *(as of 2025-03-11)*
+  - 131.226.73.137  
