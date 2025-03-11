@@ -16,7 +16,7 @@
   - none found *(as of 2025-03-11)*
  
 ## DITO  
-- **MNC:** 010
+- **MNC:** 055
 - **ePDG FQDN:** `epdg.epc.mnc010.mcc515.pub.3gppnetwork.org`  (not verified)
 - **Addresses:**  
   - none found *(as of 2025-03-11)*  
