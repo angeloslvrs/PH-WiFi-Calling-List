@@ -6,7 +6,7 @@
 - **MNC:** 003  
 - **ePDG FQDN:** `epdg.epc.mnc003.mcc515.pub.3gppnetwork.org`  
 - **Addresses:**  
-  - `121.54.55.133`  
+  - `121.54.55.133`  *(as of 2025-03-11)*
   - `203.87.172.208` *(as of 2025-03-11)*  
 
 ## Globe  
@@ -17,7 +17,7 @@
  
 ## DITO  
 - **MNC:** 066
-- **ePDG FQDN:** `epdg.epc.mnc066.mcc515.pub.3gppnetwork.org
+- **ePDG FQDN:** `epdg.epc.mnc066.mcc515.pub.3gppnetwork.org`
 - **Addresses:**  
-  - 131.226.72.137 *(as of 2025-03-11)*
-  - 131.226.73.137  
+  - `131.226.72.137` *(as of 2025-03-11)*
+  - `131.226.73.137` *(as of 2025-03-11)*
