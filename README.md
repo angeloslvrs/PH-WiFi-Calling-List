@@ -13,7 +13,7 @@
 - **MNC:** 002  
 - **ePDG FQDN:** `weconnect.globe.com.ph`
 - **Addresses:**  
-  - 124.6.181.102 *(as of 2025-03-11)*
+  - `124.6.181.102` *(as of 2025-03-11)*
  
 ## DITO  
 - **MNC:** 066
