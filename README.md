@@ -11,12 +11,12 @@
 
 ## Globe  
 - **MNC:** 002  
-- **ePDG FQDN:** `epdg.epc.mnc002.mcc515.pub.3gppnetwork.org`  (not verified)
+- **ePDG FQDN:** `weconnect.globe.com.ph`
 - **Addresses:**  
-  - none found *(as of 2025-03-11)*
+  - 124.6.181.102 *(as of 2025-03-11)*
  
 ## DITO  
 - **MNC:** 055
-- **ePDG FQDN:** `epdg.epc.mnc010.mcc515.pub.3gppnetwork.org`  (not verified)
+- **ePDG FQDN:** `epdg.epc.mnc055.mcc515.pub.3gppnetwork.org`  (not verified)
 - **Addresses:**  
   - none found *(as of 2025-03-11)*  
